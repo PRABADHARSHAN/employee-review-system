@@ -1,17 +1,17 @@
 # Employee-review-system
 This application has following features with three views
-1. Admin view
+01. Admin view
 ```sh
 Add/remove/update/view employees
 Add/update/view performance reviews
 Assign employees to participate in another employee's performance review
 ```
-2. Employee view
+02. Employee view
 ```sh
 List of performance review requiring feedback 
 An employee can register, only admin can make an employee an admin
 ```
-3. sign in for admin and user.
+03. sign in for admin and user.
 ```sh
 also has super user for initialting the application once
 Make 1 login for admin and employee
